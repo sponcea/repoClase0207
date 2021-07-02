@@ -9,4 +9,6 @@
 * Dohko de Libra
 * Milo de Escorpio
 * Aioros de Sagitario
+* Shura de Capricornio
 * Camus de Acuario
+
