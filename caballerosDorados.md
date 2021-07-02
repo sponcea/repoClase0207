@@ -8,3 +8,4 @@
 * Shaka de Virgo
 * Dohko de Libra
 * Milo de Escorpio
+* Aioros de Sagitario
