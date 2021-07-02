@@ -4,3 +4,5 @@
 * Moses de Ballena
 * Marin de Águila
 * Jamian de Cuervo
+* Shaina de Ofiuco
+* Orfeo de Lira
