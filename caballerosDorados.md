@@ -9,3 +9,4 @@
 * Dohko de Libra
 * Milo de Escorpio
 * Aioros de Sagitario
+* Camus de Acuario
